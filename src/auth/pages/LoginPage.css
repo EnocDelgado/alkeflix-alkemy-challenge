@@ -1,0 +1,35 @@
+.login-container{
+    margin-top: 10%;
+}
+.login-form-1{
+    border-radius: 5px;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+    padding: 5%;
+    background-color: #0E8388;
+}
+.login-form-1 h3{
+    text-align: center;
+    color: #333;
+}
+.login-container form{
+    padding: 9%;
+}
+.btnSubmit
+{
+    border-radius: 1rem;
+    padding: 1.5%;
+    border: none;
+    cursor: pointer;
+    background-color: #0E8388;
+}
+.login-form-1 .btnSubmit{
+    color: #fff;
+    background-color: #2E4F4F;
+}
+.login-form-1 .btnSubmit:hover{
+    color: #fff;
+    background-color: #2C3333;
+}
+/* #create-account {
+    color: #0E8388;
+}  */
